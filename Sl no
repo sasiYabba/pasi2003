@@ -44,7 +44,6 @@ import threading
 import json
 import urllib
 import cookielib
-import requests
 import mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
